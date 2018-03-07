@@ -31,24 +31,6 @@
     margin-bottom: 0px;
   }
 
-  /* -----------------#docs--------------------- */
-
-  #docs {
-    /* text-align: center; */
-  }
-
-  /* -----------------#weKnow--------------------- */
-
-  #weKnow {
-    /* text-align: center; */
-  }
-
-  /* -----------------#whatKnow--------------------- */
-
-  #whatKnow ul>li {
-    /* text-align: center; */
-  }
-
   /* -----------------#videoUniver------------------- */
 
   #videoUniver .video-container>div {
@@ -69,13 +51,7 @@
     margin-bottom: 0px;
   }
 
-  /* -------------------#why------------------------*/
-
-  #why {
-    /* text-align: center; */
-  }
-
-
+  
   /* -------------------#guarantees-------------------*/
 
   .certificates>div {
